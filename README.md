@@ -10,8 +10,30 @@
 » Sass / Scss <br>
 » React JS
 
+## Team Members & Roles
 
+**Pragathi – Frontend Developer**  
+- Developed React components for the car rental system.  
+- Managed routing and dynamic rendering of car listings.  
+- Styled the application using Sass for a responsive UI.  
+- Implemented search and filter functionality for a seamless user experience.
 
+**Vikitha – Backend & API Integration**  
+- Set up RESTful APIs for fetching, creating, and updating car rental data.  
+- Connected frontend components to backend endpoints.  
+- Implemented server-side validation and error handling.
+
+**Bhargavi – Authentication & User Management**  
+- Implemented user registration, login, and session management.  
+- Integrated authentication flows (JWT or token-based).  
+- Managed user profiles and booking history.
+
+**Varshitha – Testing, Deployment & Documentation**  
+- Wrote unit and integration tests for frontend components.  
+- Built the project for production and handled deployment.  
+- Maintained documentation, project setup instructions, and version control.
+
+> **Note:** All code was pushed by [Friend 1], but contributions are listed according to each team member's role.
 # React Project Setup
 
 This guide provides instructions to set up and run a React project on your local machine. The project also includes Sass as a dependency for styling.
